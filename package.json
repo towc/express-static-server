@@ -1,0 +1,25 @@
+{
+  "name": "express-static-server",
+  "version": "1.0.0",
+  "description": "static server utility",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/towc/express-static-server.git"
+  },
+  "keywords": [
+    "static",
+    "server",
+    "express"
+  ],
+  "author": "towc",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/towc/express-static-server/issues"
+  },
+  "homepage": "https://github.com/towc/express-static-server#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
