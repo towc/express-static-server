@@ -1,8 +1,8 @@
-# express-static-server
+# simpler-express-static
 npm module for a simple static server
 
 # install
-`npm i --save express-static-server`
+`npm i --save simpler-express-static`
 
 # usage
-`require('express-static-server')( 'local-path', 8080 )``
+`require('simpler-express-static')( 'local-path', 8080 )``

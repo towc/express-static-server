@@ -1,12 +1,12 @@
 {
-  "name": "express-static-server",
+  "name": "simpler-express-static",
   "version": "1.0.0",
   "description": "static server utility",
   "main": "index.js",
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/towc/express-static-server.git"
+    "url": "git+https://github.com/towc/simpler-express-static.git"
   },
   "keywords": [
     "static",
@@ -16,9 +16,9 @@
   "author": "towc",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/towc/express-static-server/issues"
+    "url": "https://github.com/towc/express-static/issues"
   },
-  "homepage": "https://github.com/towc/express-static-server#readme",
+  "homepage": "https://github.com/towc/simpler-express-static#readme",
   "dependencies": {
     "express": "^4.15.2"
   }
